@@ -1,0 +1,1 @@
+// Placeholder Express route for license check
